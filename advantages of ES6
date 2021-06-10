@@ -1,0 +1,7 @@
+1. It adds new features of variables called let and const.
+2. Adding const infornt of an array makes an array it as a constant that means one cannot reassign a new array to older array bu its mutable
+3. Adding const infornt of an object makes it the same way but you can make it immutable by adding a Object.fixed(objName).
+4. one can use arrow functions which reduce the length of the functions which are not used again
+5. we can also set default parameters if one forgets or doesn't want to share the parameter the function uses or prints default parameter given to it. I mean to say default 
+parameter kicks in when the argument is not specified.
+6. One can use rest parameter with function parameters
