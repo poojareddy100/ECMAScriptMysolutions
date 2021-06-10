@@ -5,3 +5,14 @@
 5. we can also set default parameters if one forgets or doesn't want to share the parameter the function uses or prints default parameter given to it. I mean to say default 
 parameter kicks in when the argument is not specified.
 6. One can use rest parameter with function parameters
+7. ES6 introduces the spread operator, which allows us to expand arrays and other expressions in places where multiple parameters or elements are expected.
+8. Destructuring assignment is special syntax introduced in ES6, for neatly assigning values taken directly from an object.
+9. Destructuring allows you to assign a new variable name when extracting values. You can do this by putting the new name after a colon when assigning the value.
+10. You can use the same principles from the previous two lessons to destructure values from nested objects.
+11. ES6 makes destructuring arrays as easy as destructuring objects.
+One key difference between the spread operator and array destructuring is that the spread operator unpacks all contents of an array into a comma-separated list. 
+Consequently, you cannot pick or choose which elements you want to assign to variables.
+12. In some situations involving array destructuring, we might want to collect the rest of the elements into a separate array.
+13. one can Use Destructuring Assignment to Pass an Object as a Function's Parameters
+14. one can create Strings using Template Literals.
+15. 
